@@ -11,7 +11,8 @@ namespace TimeEvent
         private string message;
         private double time;
 
-        public string Message {
+        public string Message
+        {
             get { return message; }
             set
             {
